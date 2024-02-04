@@ -54,13 +54,23 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
       />
     </td>
   </tr>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=Yousuf24100286&theme=radical"
+        alt="Yousuf's Wakatime Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=Yousuf24100286&column=3&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5"
+        alt="Yousuf's GitHub Trophy"
+      />
+    </td>
+  </tr>
 </table>
-<img
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=Yousuf24100286&theme=radical"
-  alt="Yousuf's Wakatime Stats"
-/>
-
-![Yousuf's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Yousuf24100286&column=4&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
+<!-- 
+![Yousuf's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Yousuf24100286&column=4&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15) -->
 
 </div>
 
