@@ -15,7 +15,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 <hr>
 
 <div align=center 
-  style="display: flex; align-items: center; justify-content: space-evenly;"
+  style="display: flex; justify-content: space-evenly;"
 >
 
 
