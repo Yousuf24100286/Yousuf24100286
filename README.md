@@ -25,7 +25,6 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 |Tools | [![Git,GitHub,VScode,Postman,Bash](https://skillicons.dev/icons?i=git,github,vscode,postman,bash)](https://skillicons.dev)|
 
 ## My GitHub Stats
-</div>
 
 
 
@@ -61,48 +60,12 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
   alt="Yousuf's Wakatime Stats"
 />
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Yousuf24100286&show_icons=true&theme=radical&count_private=true&width=100%"
-  alt="Yousuf's GitHub Stats"
-  width="500px"
-  height="auto"
-/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf24100286&theme=radical&width=100%"
-  alt="Yousuf's GitHub Streak"
-  width="500px"
-  height="auto"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=Yousuf24100286&theme=radical"
-  alt="Yousuf's Wakatime Stats"
-  width="500px"
-  height="auto"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf24100286&theme=radical&layout=compact"
-  alt="Yousuf's Top Languages"
-  width="500px"
-/>
-
-
-![Yousuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousuf24100286&show_icons=true&theme=radical&count_private=true&width=100%)
-
-![Yousuf's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yousuf24100286&theme=radical&width=100%)
-
-![Yousuf's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yousuf24100286&theme=radical)
-![Yousuf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf24100286&theme=radical) 
-
 ![Yousuf's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Yousuf24100286&column=4&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
 
+</div>
 
 <!-- ![Yousuf's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yousuf24100286&theme=react-dark) -->
 
-
-</div>
 
 
 <!-- <h2
