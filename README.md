@@ -74,7 +74,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 >
 
   <div>
-    <h3>My Socials</h3>
+    <h4>My Socials</h4>
     <a
       href="https://twitter.com/m_yousuf1254"
       target="_blank"
@@ -109,7 +109,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
   </div>
 
   <div>
-    <h3>Connect With Me</h3>
+    <h4>Connect With Me</h4>
     <a
       href="https://www.linkedin.com/in/myk1254/"
       target="_blank"
