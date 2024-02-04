@@ -69,90 +69,15 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 
 <hr>
 
-<div
-  style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; width: 100%;"
->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myk1254/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m_yousuf1254)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/M.Yousuf1254)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.yousuf1254/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.yousuf1254@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:24100286@lums.edu.pk)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923320459299)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@m.yousuf1254)
 
-  <div>
-    <h4>My Socials</h4>
-    <a
-      href="https://twitter.com/m_yousuf1254"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <img
-        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-        alt="Twitter"
-      >
-    </a>
-    <a
-      href="https://www.instagram.com/m.yousuf1254/"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <img
-        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        alt="Instagram"
-      >
-    </a>
-    <br>
-    <a
-      href="https://www.facebook.com/M.Yousuf1254"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <img
-        src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-        alt="Facebook"
-      >
-    </a>
-  </div>
-
-  <div>
-    <h4>Connect With Me</h4>
-    <a
-      href="https://www.linkedin.com/in/myk1254/"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <img
-        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn"
-      >
-    </a>
-    <a
-      href="mailto:m.yousuf1254@gmail.com"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <img
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        alt="Gmail"
-      >
-    </a>
-    <br>
-    <a
-      href="mailto:24100286@lums.edu.pk"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <img
-        src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
-        alt="Outlook"
-      >
-    </a>
-    <a
-      href="https://wa.me/923320459299"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      <img
-        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-        alt="WhatsApp"
-      >
-    </a>
-  </div>
-</div>
 
 </div>
 <!--
