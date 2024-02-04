@@ -33,14 +33,12 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
       <img
         src="https://github-readme-stats.vercel.app/api?username=Yousuf24100286&show_icons=true&theme=radical&count_private=true&width=100%"
         alt="Yousuf's GitHub Stats"
-        style="width: 500px; height: 200px;"
       />
     </td>
     <td>
       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf24100286&theme=radical&width=100%"
         alt="Yousuf's GitHub Streak"
-        style="width: 500px; height: 200px;"
       />
     </td>
   </tr>
@@ -49,23 +47,12 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
       <img
         src="https://github-readme-stats.vercel.app/api/wakatime?username=Yousuf24100286&theme=radical"
         alt="Yousuf's Wakatime Stats"
-        style="width: 500px; height: 200px;"
       />
     </td>
     <td>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf24100286&theme=radical&layout=compact"
         alt="Yousuf's Top Languages"
-        style="width: 500px; height: 200px;"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img
-        src="https://activity-graph.herokuapp.com/graph?username=Yousuf24100286&theme=react-dark"
-        alt="Yousuf's GitHub Activity Graph"
-        width="500px"
       />
     </td>
   </tr>
