@@ -39,7 +39,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
       />
     </td>
     <td
-      rowspan="2" 
+      rowspan="3" 
     >
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf24100286&theme=radical"
