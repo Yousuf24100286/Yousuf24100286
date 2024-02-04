@@ -26,9 +26,6 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 
 ## My GitHub Stats
 
-
-
-
 <table>
   <tr>
     <td>
@@ -69,26 +66,95 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
     </td>
   </tr>
 </table>
-<!-- 
-![Yousuf's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Yousuf24100286&column=4&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15) -->
 
+<hr>
+
+<div
+  style="display: flex; justify-content: space-between; align-items: center"
+>
+
+  <div>
+    <h3>My Socials</h3>
+    <a
+      href="https://twitter.com/m_yousuf1254"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+        alt="Twitter"
+      >
+    </a>
+    <a
+      href="https://www.instagram.com/m.yousuf1254/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        alt="Instagram"
+      >
+    </a>
+    <br>
+    <a
+      href="https://www.facebook.com/M.Yousuf1254"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+        alt="Facebook"
+      >
+    </a>
+  </div>
+
+  <div>
+    <h3>Connect With Me</h3>
+    <a
+      href="https://www.linkedin.com/in/myk1254/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="LinkedIn"
+      >
+    </a>
+    <a
+      href="mailto:m.yousuf1254@gmail.com"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Gmail"
+      >
+    </a>
+    <br>
+    <a
+      href="mailto:24100286@lums.edu.pk"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+        alt="Outlook"
+      >
+    </a>
+    <a
+      href="https://wa.me/923320459299"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        alt="WhatsApp"
+      >
+    </a>
+  </div>
 </div>
 
-<!-- ![Yousuf's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yousuf24100286&theme=react-dark) -->
-
-
-
-<!-- <h2
-  style="
-    font-size: 2rem; 
-    font-weight: 700; 
-    color: #ffffff; 
-    align-items: center; 
-    justify-content: center; 
-    display: flex; 
-    font-family: 'Inter', sans-serif;"
->My Tech Stack</h2> -->
-
+</div>
 <!--
 **Yousuf24100286/Yousuf24100286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
