@@ -16,9 +16,10 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 
 <div align=center>
 
-||My Tech Stack          |
-|---|---|
+## My Tech Stack
+
 |Programming Language | [![Python, JavaScript, Typescript](https://skillicons.dev/icons?i=python,js,ts)](https://skillicons.dev)|
+|---|---|
 |Frontend | [![](https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwindcss,redux)](https://skillicons.dev)|
 |Backend | [![](https://skillicons.dev/icons?i=django,nodejs,expressjs,mongo)](https://skillicons.dev)|
 |Database | [![](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)|
