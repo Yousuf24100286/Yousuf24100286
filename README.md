@@ -27,25 +27,6 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 ## My GitHub Stats
 </div>
 
-<div
-  style="display: flex; justify-content: space-evely;"
->
-  <div>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Yousuf24100286&show_icons=true&theme=radical&count_private=true"
-      alt="Yousuf's GitHub Stats"
-    />
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf24100286&theme=radical"
-      alt="Yousuf's GitHub Streak"
-    />
-  </div>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf24100286&theme=radical"
-    alt="Yousuf's Top Languages" 
-  />
-
-</div>
 
 
 
@@ -57,6 +38,16 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
         alt="Yousuf's GitHub Stats"
       />
     </td>
+    <td
+      rowspan="2" 
+    >
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf24100286&theme=radical"
+        alt="Yousuf's Top Languages"
+      />
+    </td>
+  </tr>
+  <tr>
     <td>
       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf24100286&theme=radical&width=100%"
@@ -69,12 +60,6 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
       <img
         src="https://github-readme-stats.vercel.app/api/wakatime?username=Yousuf24100286&theme=radical"
         alt="Yousuf's Wakatime Stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf24100286&theme=radical&layout=compact"
-        alt="Yousuf's Top Languages"
       />
     </td>
   </tr>
