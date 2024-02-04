@@ -70,7 +70,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 <hr>
 
 <div
-  style="display: flex; justify-content: space-evenly; align-items: center"
+  style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; width: 100%;"
 >
 
   <div>
