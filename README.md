@@ -34,8 +34,8 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Yousuf24100286&show_icons=true&theme=radical&count_private=true&width=100%"
-        alt="Yousuf's GitHub Stats"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf24100286&theme=radical&width=100%"
+        alt="Yousuf's GitHub Streak"
       />
     </td>
     <td
@@ -50,20 +50,16 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
   <tr>
     <td>
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf24100286&theme=radical&width=100%"
-        alt="Yousuf's GitHub Streak"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=Yousuf24100286&theme=radical"
-        alt="Yousuf's Wakatime Stats"
+        src="https://github-readme-stats.vercel.app/api?username=Yousuf24100286&show_icons=true&theme=radical&count_private=true&width=100%"
+        alt="Yousuf's GitHub Stats"
       />
     </td>
   </tr>
 </table>
+<img
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=Yousuf24100286&theme=radical"
+  alt="Yousuf's Wakatime Stats"
+/>
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=Yousuf24100286&show_icons=true&theme=radical&count_private=true&width=100%"
