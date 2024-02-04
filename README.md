@@ -1,119 +1,15 @@
-<h1
-  style="
-    font-size: 3rem; 
-    font-weight: 700; 
-    color: #ffffff; 
-    align-items: center; 
-    justify-content: center; 
-    display: flex; 
-    font-family: 'Inter', sans-serif;"
->
-  Hi, 👋 I'm Yousuf Khan
-</h1>
+# Hi, 👋 I'm Yousuf Khan
 
-<p
-  style="
-    text-align: center; 
-    font-family: 'Inter', sans-serif;
-    font-size: 1.5rem;
-    color: #ffffff;
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem;"
->
-  I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore University of Management Sciences (LUMS).
-</p>
-<hr
-  style="
-    margin-top: 1.5rem; 
-    margin-bottom: 1.5rem; 
-    height: 2px;
-    background-color: #ffffff;"
->
+I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore University of Management Sciences (LUMS).
 
-<ul
-  style="
-    list-style-type: none;  
-    justify-content: space-around; 
-    align-items: center; 
-    padding: 0; 
-    margin: 0;"
->
-  <li
-    style="
-      font-size: 1.5rem; 
-      font-family: 'Inter', sans-serif; 
-      color: #ffffff;"
-  >
-    🔭 I’m currently working on My Final Year Project
-  </li>
-  <li
-    style="
-      font-size: 1.5rem; 
-      font-family: 'Inter', sans-serif; 
-      color: #ffffff;"
-  >
-    🌱 I’m currently learning socket.io
-  </li>
-  <!-- <li
-    style="
-      font-size: 1.5rem; 
-      font-family: 'Inter', sans-serif; 
-      color: #ffffff;"
-  >
-    👯 I’m looking to collaborate on 
-  </li>
-  <li
-    style="
-      font-size: 1.5rem; 
-      font-family: 'Inter', sans-serif; 
-      color: #ffffff;"
-  >
-    🤔 I’m looking for help with ...
-  </li> -->
-  <li
-    style="
-      font-size: 1.5rem; 
-      font-family: 'Inter', sans-serif; 
-      color: #ffffff;"
-  >
-    💬 Ask me about Tech and Mathematics
-  </li>
-  <li
-    style="
-      font-size: 1.5rem; 
-      font-family: 'Inter', sans-serif; 
-      color: #ffffff;"
-  >
-    📫 How to reach me: <a
-      href="mailto:24100286@lums.edu.pk"
-    >
-      24100286@lums.edu.pk
-    </a>
-  </li>
-  <li
-    style="
-      font-size: 1.5rem; 
-      font-family: 'Inter', sans-serif; 
-      color: #ffffff;"
-  >
-    😄 Pronouns: He/Him
-  </li>
-  <!-- <li
-    style="
-      font-size: 1.5rem; 
-      font-family: 'Inter', sans-serif; 
-      color: #ffffff;"
-  >
-    ⚡ Fun fact: ...
-  </li> -->
-</ul>
-<hr
-  style="
-    margin-top: 1.5rem; 
-    margin-bottom: 1.5rem; 
-    height: 2px;
-    background-color: #ffffff;"
->
+<hr>
+
+- I'm currently working on my Final Year Project
+- I'm currently learning socket.io
+- Ask me about Tech and Mathematics
+- Pronouns: He/Him
+- How to reach me: [24100286@lums.edu.pk](mailto:24100286@lums.edu.pk) 
+<hr>
 <!-- <h2
   style="
     font-size: 2rem; 
