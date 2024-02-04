@@ -14,18 +14,51 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 - How to reach me: [24100286@lums.edu.pk](mailto:24100286@lums.edu.pk) 
 <hr>
 
-<div align=center>
+<div align=center 
+  style="display: flex; align-items: center; justify-content: space-evenly;"
+>
 
-## My Tech Stack
 
-|Programming Language | [![Python, JavaScript, Typescript](https://skillicons.dev/icons?i=python,js,ts)](https://skillicons.dev)|
+||My Tech Stack|
 |:-:|:-:|
+|Programming Language | [![Python, JavaScript, Typescript](https://skillicons.dev/icons?i=python,js,ts)](https://skillicons.dev)|
 |Frontend | [![](https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwindcss,redux)](https://skillicons.dev)|
 |Backend | [![](https://skillicons.dev/icons?i=django,nodejs,expressjs,mongo)](https://skillicons.dev)|
 |Database | [![](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)|
 |Tools | [![](https://skillicons.dev/icons?i=git,github,vscode,postman,bash)](https://skillicons.dev)|
 
+![Yousuf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf24100286&theme=radical) 
+
+
+</div>
+
+
 ## My GitHub Stats
+</div>
+
+<div
+  align="center"
+  style="display: flex; align-items: center;"
+>
+  <div>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Yousuf24100286&show_icons=true&theme=radical&count_private=true"
+      alt="Yousuf's GitHub Stats"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf24100286&theme=radical"
+      alt="Yousuf's GitHub Streak"
+    />
+  </div>
+  <div>
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf24100286&theme=radical&layout=compact"
+      alt="Yousuf's Top Languages"
+    />
+  </div>
+</div>
+
+
 
 <table>
   <tr>
@@ -91,7 +124,6 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 ![Yousuf's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yousuf24100286&theme=radical&width=100%)
 
 ![Yousuf's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yousuf24100286&theme=radical)
-![Yousuf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf24100286&theme=radical) 
 
 ![Yousuf's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Yousuf24100286&column=4&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
 
