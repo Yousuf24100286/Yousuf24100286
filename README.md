@@ -54,7 +54,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=Yousuf24100286&theme=radical"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=Yousuf24100286&theme=radical&v=2"
         alt="Yousuf's Wakatime Stats"
       />
     </td>
