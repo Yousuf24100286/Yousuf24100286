@@ -65,6 +65,16 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
       />
     </td>
   </tr>
+  <tr>
+    <td
+      colspan="2"
+    >
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Yousuf24100286&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true"
+        alt="Yousuf's GitHub Activity Graph" 
+      />
+    </td>
+  </tr>
 </table>
 
 <hr>
