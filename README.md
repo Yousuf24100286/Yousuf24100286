@@ -30,6 +30,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
   <tr>
     <td>
       <img
+        style="width:100%"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Yousuf24100286&theme=radical&width=100%"
         alt="Yousuf's GitHub Streak"
       />
@@ -38,6 +39,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
       rowspan="2" 
     >
       <img
+        style="width:100%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf24100286&theme=radical"
         alt="Yousuf's Top Languages"
       />
@@ -46,6 +48,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
   <tr>
     <td>
       <img
+        style="width:100%"
         src="https://github-readme-stats.vercel.app/api?username=Yousuf24100286&show_icons=true&theme=radical&count_private=true&width=100%"
         alt="Yousuf's GitHub Stats"
       />
@@ -54,13 +57,15 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
   <tr>
     <td>
       <img
+        style="width:100%"
         src="https://github-readme-stats.vercel.app/api/wakatime?username=Yousuf24100286&theme=radical&v=2"
         alt="Yousuf's Wakatime Stats"
       />
     </td>
     <td>
       <img
-        src="https://github-profile-trophy.vercel.app/?username=Yousuf24100286&column=3&theme=radical&no-frame=true&no-bg=true&margin-w=5&margin-h=5"
+        style="width:100%; height:100%"
+        src="https://github-profile-trophy.vercel.app/?username=Yousuf24100286&column=3&theme=radical&no-bg=true&margin-w=5&margin-h=5"
         alt="Yousuf's GitHub Trophy"
       />
     </td>
