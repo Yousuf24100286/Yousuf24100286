@@ -35,7 +35,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
         alt="Yousuf's GitHub Streak"
       />
     </td>
-    <td
+<!--     <td
       rowspan="2" 
     >
       <img
@@ -43,7 +43,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf24100286&theme=radical"
         alt="Yousuf's Top Languages"
       />
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td>
