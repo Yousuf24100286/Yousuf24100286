@@ -22,6 +22,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 |Frontend | [![NodeJs,React,NextJS,TailwindCSS,Redux](https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwindcss,redux)](https://skillicons.dev)|
 |Backend | [![Django,NodeJS,Express,Mongo](https://skillicons.dev/icons?i=django,nodejs,expressjs,mongo)](https://skillicons.dev)|
 |Database | [![MongoDB,Postgres,MySQL](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)|
+|AI | [![Git,GitHub,VScode,Postman,Bash](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv)](https://skillicons.dev)|
 |Tools | [![Git,GitHub,VScode,Postman,Bash](https://skillicons.dev/icons?i=git,github,vscode,postman,bash)](https://skillicons.dev)|
 
 ## My GitHub Stats
