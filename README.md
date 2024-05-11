@@ -21,7 +21,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 |Programming Language | [![Python,JavaScript,Typescript](https://skillicons.dev/icons?i=python,js,ts)](https://skillicons.dev)|
 |Frontend | [![NodeJs,React,NextJS,TailwindCSS,Redux](https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwindcss,redux)](https://skillicons.dev)|
 |Backend | [![Django,NodeJS,Express,Mongo](https://skillicons.dev/icons?i=django,nodejs,expressjs,mongo)](https://skillicons.dev)|
-|Database | [![MongoDB,Postgres,MySQL](https://skillicons.dev/icons?i=mongodb,postgres,mysql)](https://skillicons.dev)|
+|Database | [![MongoDB,Postgres,MySQL,SQLite](https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite)](https://skillicons.dev)|
 |AI | [![Pytorch,Tensorflow,OpenCV](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv)](https://skillicons.dev)|
 |Docs | [![Notion,Markdown](https://skillicons.dev/icons?i=notion,md)](https://skillicons.dev)|
 |Tools | [![Git,GitHub,VScode,Postman,Docker](https://skillicons.dev/icons?i=git,github,vscode,postman,docker)](https://skillicons.dev)|
