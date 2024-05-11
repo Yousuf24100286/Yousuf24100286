@@ -28,6 +28,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 |Shells | [![Powershell,Bash](https://skillicons.dev/icons?i=powershell,bash)](https://skillicons.dev)|
 |Operating Systems | [![Windows,Ubuntu](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)|
 
+<!--
 ## My GitHub Stats
 
 <table>
@@ -39,7 +40,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
         alt="Yousuf's GitHub Streak"
       />
     </td>
-<!--     <td
+     <td
       rowspan="2" 
     >
       <img
@@ -47,7 +48,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousuf24100286&theme=radical"
         alt="Yousuf's Top Languages"
       />
-    </td> -->
+    </td> 
   </tr>
   <tr>
     <td>
@@ -58,15 +59,15 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
       />
     </td>
   </tr>
-<!--   <tr>
+  <tr>
     <td>
       <img
         style="width:100%"
          src="https://github-readme-stats.vercel.app/api/wakatime?username=Yousuf24100286&theme=radical&v=2&range=all_time"
         alt="Yousuf's Wakatime Stats"
-      /> -->
-<!--         src="https://wakatime.com/share/@Yousuf24100286/4164068c-b5ec-4a7c-8afd-d620c6f868f7.svg" -->
-<!--     </td>
+      />
+        src="https://wakatime.com/share/@Yousuf24100286/4164068c-b5ec-4a7c-8afd-d620c6f868f7.svg" 
+    </td>
     <td>
       <img
         style="width:100%; height:100%"
@@ -74,7 +75,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
         alt="Yousuf's GitHub Trophy"
       />
     </td>
-  </tr> -->
+  </tr>
   <tr>
     <td
       colspan="2"
@@ -86,7 +87,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
     </td>
   </tr>
 </table>
-
+ -->
 <hr>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myk1254/)
