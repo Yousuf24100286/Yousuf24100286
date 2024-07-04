@@ -21,15 +21,16 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 |Programming Language | ![Python,JavaScript,Typescript](https://go-skill-icons.vercel.app/api/icons?i=python,js,ts)|
 |Frontend | ![NodeJs,React,NextJS,TailwindCSS,Redux](https://go-skill-icons.vercel.app/api/icons?i=nodejs,react,nextjs,tailwindcss,redux)|
 |Backend | ![Django,NodeJS,Express](https://go-skill-icons.vercel.app/api/icons?i=django,nodejs,expressjs)|
-|Database | [![MongoDB,Postgres,MySQL,SQLite](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgres,mysql,sqlite)](https://skillicons.dev)|
+|Database | ![MongoDB,Postgres,MySQL,SQLite](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgres,mysql,sqlite)|
 |ORM | ![Mongoose,Prisma](https://go-skill-icons.vercel.app/api/icons?i=mongoose,prisma)|
-|AI Libraries | [![Pytorch,Tensorflow,OpenCV](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,opencv)](https://skillicons.dev)|
-|AI Tools | ![ChatGPT, Github Copilot](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,githubcopilot)|
-|Cloud | [![Vercel,DigitalOcean,AWS](https://go-skill-icons.vercel.app/api/icons?i=vercel,digitalocean,aws)](https://skillicons.dev)|
-|Docs | [![Notion,Markdown](https://go-skill-icons.vercel.app/api/icons?i=notion,md)](https://skillicons.dev)|
+|AI | ![Pytorch,Tensorflow,OpenCV,ChatGPT,Github Copilot](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,opencv,chatgpt,githubcopilot)|
+|Data Science | ![Numpy,Scikit-Learn,Matplotlib,Scipy](https://go-skill-icons.vercel.app/api/icons?i=numpy,scikitlearn,matplotlib,scipy)|
+|Cloud | ![Vercel,DigitalOcean,AWS,Netlify](https://go-skill-icons.vercel.app/api/icons?i=vercel,digitalocean,aws,netlify)|
+|Docs | ![Notion,Markdown](https://go-skill-icons.vercel.app/api/icons?i=notion,md)|
 |Tools | ![Git,GitHub,VScode,Postman,Docker](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman,docker)|
-|Shells | [![Powershell,Bash](https://go-skill-icons.vercel.app/api/icons?i=powershell,bash)](https://skillicons.dev)|
-|Operating Systems | [![Windows,Ubuntu](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu)](https://skillicons.dev)|
+|IDE | ![VScode,Atom,Sublime](https://go-skill-icons.vercel.app/api/icons?i=vscode,atom,sublime)|
+|Shells | ![Powershell,Bash](https://go-skill-icons.vercel.app/api/icons?i=powershell,bash,wsl)|
+|Operating Systems | ![Windows,Ubuntu](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu)|
 
 <!--
 ## My GitHub Stats
