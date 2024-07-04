@@ -18,15 +18,18 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 
 ||My Tech Stack|
 |:-:|:-:|
-|Programming Language | [![Python,JavaScript,Typescript](https://skillicons.dev/icons?i=python,js,ts)](https://skillicons.dev)|
-|Frontend | [![NodeJs,React,NextJS,TailwindCSS,Redux](https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwindcss,redux)](https://skillicons.dev)|
-|Backend | [![Django,NodeJS,Express,Mongo](https://skillicons.dev/icons?i=django,nodejs,expressjs,mongo)](https://skillicons.dev)|
-|Database | [![MongoDB,Postgres,MySQL,SQLite](https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite)](https://skillicons.dev)|
-|AI | [![Pytorch,Tensorflow,OpenCV](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv)](https://skillicons.dev)|
-|Docs | [![Notion,Markdown](https://skillicons.dev/icons?i=notion,md)](https://skillicons.dev)|
-|Tools | [![Git,GitHub,VScode,Postman,Docker](https://skillicons.dev/icons?i=git,github,vscode,postman,docker)](https://skillicons.dev)|
-|Shells | [![Powershell,Bash](https://skillicons.dev/icons?i=powershell,bash)](https://skillicons.dev)|
-|Operating Systems | [![Windows,Ubuntu](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)|
+|Programming Language | ![Python,JavaScript,Typescript](https://go-skill-icons.vercel.app/api/icons?i=python,js,ts)|
+|Frontend | ![NodeJs,React,NextJS,TailwindCSS,Redux](https://go-skill-icons.vercel.app/api/icons?i=nodejs,react,nextjs,tailwindcss,redux)|
+|Backend | ![Django,NodeJS,Express](https://go-skill-icons.vercel.app/api/icons?i=django,nodejs,expressjs)|
+|Database | [![MongoDB,Postgres,MySQL,SQLite](https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgres,mysql,sqlite)](https://skillicons.dev)|
+|ORM | ![Mongoose,Prisma](https://go-skill-icons.vercel.app/api/icons?i=mongoose,prisma)|
+|AI Libraries | [![Pytorch,Tensorflow,OpenCV](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,opencv)](https://skillicons.dev)|
+|AI Tools | ![ChatGPT, Github Copilot](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,githubcopilot)|
+|Cloud | [![Vercel,DigitalOcean,AWS](https://go-skill-icons.vercel.app/api/icons?i=vercel,digitalocean,aws)](https://skillicons.dev)|
+|Docs | [![Notion,Markdown](https://go-skill-icons.vercel.app/api/icons?i=notion,md)](https://skillicons.dev)|
+|Tools | ![Git,GitHub,VScode,Postman,Docker](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman,docker)|
+|Shells | [![Powershell,Bash](https://go-skill-icons.vercel.app/api/icons?i=powershell,bash)](https://skillicons.dev)|
+|Operating Systems | [![Windows,Ubuntu](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu)](https://skillicons.dev)|
 
 <!--
 ## My GitHub Stats
