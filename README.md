@@ -7,11 +7,11 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 </div>
 <hr>
 
-- I'm currently working on my Final Year Project
+- I'm currently working with [Find Your Tutor](https://findyourtutor.co.uk)
 - I'm currently learning Frontend Development
 - Ask me about Tech and Mathematics
 - Pronouns: He/Him
-- How to reach me: [24100286@lums.edu.pk](mailto:24100286@lums.edu.pk), [m.yousuf1254@gmail.com](mailto:m.yousuf1254@gmail.com) 
+- How to reach me: [m.yousuf1254@gmail.com](mailto:m.yousuf1254@gmail.com) <!-- [24100286@lums.edu.pk](mailto:24100286@lums.edu.pk), -->  
 <hr>
 
 <div align=center>
