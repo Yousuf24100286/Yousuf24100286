@@ -11,7 +11,8 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 - I'm currently learning Frontend Development
 - Ask me about Tech and Mathematics
 - Pronouns: He/Him
-- How to reach me: [m.yousuf1254@gmail.com](mailto:m.yousuf1254@gmail.com) <!-- [24100286@lums.edu.pk](mailto:24100286@lums.edu.pk), -->  
+- How to reach me: [m.yousuf1254@gmail.com](mailto:m.yousuf1254@gmail.com) <!-- [24100286@lums.edu.pk](mailto:24100286@lums.edu.pk), -->
+- Book a meeting with me here: [Book Now](https://cal.com/m.yousuf1254/executive-meeting)
 <hr>
 
 <div align=center>
